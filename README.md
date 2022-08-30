@@ -1,14 +1,14 @@
- Olá! Eu sou  Marcosjr 
+ Olá! Sou  Marcosj Junior 
  
 
 -🔭 Estou trabalhando com JAVA 
-- 🌱 Estou aprendendo...
+- 🌱 Estou aprendendo JAVA
 - 👯 Estou procurando colaborar em...
-- 🤔 Estou procurando ajuda com...
-- 💬 Pergunte-me sobre ...
-- 📫 Como chegar até mim: ...
+- 🤔 Estou procurando me aperfeiçoar sempre
+- 💬 Pergunte-me sobre Desenvolvimento Sistemas
+- 📫 Meu Email: marcosjrpb@hotmail.com
 - 😄 Pronomes: ele/ dele
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade: Gosto de Teatro, Ler e Academia. 
  
 
 <div>
