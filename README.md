@@ -1,11 +1,11 @@
- Olá! Sou  Marcosj Junior 
+ Olá! Sou  Marcos Junior;
  
 
--🔭 Estou trabalhando com JAVA 
+-🔭 Estou trabalhando com JAVA for Srping 
 - 🌱 Estou aprendendo JAVA
 - 👯 Estou procurando colaborar em...
 - 🤔 Estou procurando me aperfeiçoar sempre
-- 💬 Pergunte-me sobre Desenvolvimento Sistemas
+- 💬 Pergunte-me sobre Desenvolvimento de Sistemas
 - 📫 Meu Email: marcosjrpb@hotmail.com
 - 😄 Pronomes: ele/ dele
 - ⚡ Curiosidade: Gosto de Teatro, Ler e Academia. 
