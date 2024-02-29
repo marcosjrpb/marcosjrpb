@@ -1,8 +1,8 @@
  Olá! Sou  Marcos Junior;
  
 
--🔭 Estou trabalhando com JAVA for Srping 
-- 🌱 Estou aprendendo JAVA
+-🔭 Estou trabalhando com HTML,CSS e Flutter
+- 🌱 Estou aprendendo Flutter
 - 👯 Estou procurando colaborar em...
 - 🤔 Estou procurando me aperfeiçoar sempre
 - 💬 Pergunte-me sobre Desenvolvimento de Sistemas
@@ -19,11 +19,9 @@
   
 <div style="display: inline_block"><br>
    
-  	<img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
- <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white">  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
+ <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white">  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="right" alt="Rafa-gif" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
