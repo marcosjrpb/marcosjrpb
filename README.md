@@ -13,8 +13,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="80" height="28"/>
-  <img height="140em" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "  width="80" height="28"/>
-  <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"width="80" height="28"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "  width="80" height="28"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"width="80" height="28"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"width="80" height="28"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"width="80" height="28"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"width="80" height="28"/>
