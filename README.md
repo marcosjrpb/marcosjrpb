@@ -10,7 +10,13 @@
 - ⚡ Curiosidade: Gosto de teatro, leitura e academia.
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin-top: 20px; display: flex; justify-content: center;">
+    <div style="display: flex; flex-direction: column;"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width:600px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width:300px;">
+    </div>
+  </div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="100" height="28"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="100" height="28"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100" height="28"/>
@@ -19,13 +25,6 @@
     <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" width="100" height="28"/>  
     <img src="https://aleen42.github.io/badges/src/photoshop.svg" width="100" height="28"/>
     <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" width="100" height="28"/>
-  </div>
-
-  <div style="margin-top: 20px; display: flex; justify-content: center;">
-    <div style="display: flex; flex-direction: column;"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width:300px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width:300px;">
-    </div>
   </div>
 
   <div align="center" style="display: inline_block; margin-top: 20px;"> 
