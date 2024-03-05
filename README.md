@@ -1,15 +1,14 @@
- Olá! Sou  Marcos Junior;
- 
+# Olá! Sou Marcos Junior 👋
 
--🔭 Estou trabalhando com HTML,CSS e Flutter
-- 🌱 Estou aprendendo Flutter
-- 👯 Estou procurando colaborar em...
-- 🤔 Estou procurando me aperfeiçoar sempre
-- 💬 Pergunte-me sobre Desenvolvimento de Sistemas
-- 📫 Meu Email: marcosjrpb@hotmail.com
-- 😄 Pronomes: ele/ dele
-- ⚡ Curiosidade: Gosto de Teatro, Ler e Academia. 
- 
+- 🔭 Atualmente, estou trabalhando com HTML, CSS e Flutter.
+- 🌱 Estou sempre aprendendo mais sobre Flutter.
+- 👯 Estou aberto para colaborações em projetos interessantes.
+- 🤔 Estou constantemente buscando aperfeiçoar minhas habilidades.
+- 💬 Pergunte-me sobre desenvolvimento de sistemas.
+- 📫 Meu e-mail: marcosjrpb@hotmail.com.
+- 😄 Pronomes: ele/dele.
+- ⚡ Curiosidade: Gosto de teatro, leitura e academia.
+
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="100" height="28"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="100" height="28"/>
@@ -34,25 +33,25 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <h2> Technologies Used </h2>
-  <p> This project utilizes a variety of technologies, including:</p>
+  <h2> Tecnologias Utilizadas </h2>
+  <p> Este projeto utiliza uma variedade de tecnologias, incluindo:</p>
   <ul style="list-style-type: none; padding: 0;">
-    <li>Flutter for building the UI</li>
-    <li>Android for mobile platform</li>
-    <li>Java for backend development</li>
-    <li>PHP for server-side scripting</li>
-    <li>MySQL for database management</li>
-    <li>IOTA for distributed ledger technology</li>
-    <li>Adobe Photoshop and Dreamweaver for design and development tools</li>
+    <li>Flutter para construção da interface de usuário</li>
+    <li>Android para plataforma móvel</li>
+    <li>Java para desenvolvimento backend</li>
+    <li>PHP para scripting no servidor</li>
+    <li>MySQL para gerenciamento de banco de dados</li>
+    <li>IOTA para tecnologia de ledger distribuído</li>
+    <li>Adobe Photoshop e Dreamweaver para ferramentas de design e desenvolvimento</li>
   </ul>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <h2> Project Statistics </h2>
-  <p> Here are some statistics related to this project:</p>
+  <h2> Estatísticas do Projeto </h2>
+  <p> Aqui estão algumas estatísticas relacionadas a este projeto:</p>
   <ul style="list-style-type: none; padding: 0;">
-    <li>Stargazers: [insert stargazers count]</li>
-    <li>Contributors: [insert contributors count]</li>
-    <li>Most Used Languages: [insert most used languages]</li>
+    <li>Stargazers: [inserir contagem de stargazers]</li>
+    <li>Contribuidores: [inserir contagem de contribuidores]</li>
+    <li>Linguagens Mais Utilizadas: [inserir linguagens mais utilizadas]</li>
   </ul>
 </div>
