@@ -21,7 +21,7 @@
 </div>
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb &theme=blue-green" width="800" height="400"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" width="800" height="400"/> 
 </div>
   
 <div style="display: inline_block"><br>
