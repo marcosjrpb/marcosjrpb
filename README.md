@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white"width="80" height="28"/>  
 </div>
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username={marcosjrpb}&theme=blue-green" width="800" height="400"/> 
-  <img src=" 	https://github-readme-stats.vercel.app/api/top-langs/?username={marcosjrpb}&theme=blue-green" width="800" height="400"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username={marcosjrpb}&theme=blue-green"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={marcosjrpb}&theme=blue-green" width="800" height="400"/> 
 </div>
   
 <div style="display: inline_block"><br>
