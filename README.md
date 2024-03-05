@@ -27,7 +27,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width: 300px;">
     </div>
     <div style="display: flex; flex-direction: column; justify-content: space-between; margin-left: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width: 300px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width: 800px;">
     </div>
   </div>
 
