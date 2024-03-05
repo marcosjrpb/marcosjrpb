@@ -2,8 +2,6 @@
 
 -🔭 Atualmente, estou trabalhando com HTML, CSS e Flutter.
 
--🌱 Estou sempre aprendendo mais sobre Flutter.
-
 -👯 Estou aberto para colaborações em projetos interessantes.
 
 -🤔 Estou constantemente buscando aperfeiçoar minhas habilidades.
@@ -21,8 +19,6 @@
 -💡 Tenho interesse em projetos que envolvam acessibilidade e usabilidade.
 
 -📚 Estou sempre em busca de novos conhecimentos, tanto na área técnica quanto em campos relacionados, programação.
-
--🔍 Tenho habilidades em análise de requisitos e arquitetura de software, além de implementação.
 
 -💻 Estou familiarizado com metodologias ágeis de desenvolvimento, como Flutter e Spring.
 
