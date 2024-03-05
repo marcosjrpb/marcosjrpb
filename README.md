@@ -19,13 +19,15 @@
   <img src="https://aleen42.github.io/badges/src/photoshop.svg" width="100" height="28"/>
   <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" width="100" height="28"/>
 </div>
+
 <div align="center" style="margin-top: 20px;">
   <div style="display: flex; flex-direction: column;">
     <img src="https://starchart.cc/marcosjrpb/listagem_flutter.svg" style="width: 300px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width: 300px; margin-left: 20px;">   
+    <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width: 300px;">
   </div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width: 300px; margin-left: 20px;">
 </div>
+
 
 
 
