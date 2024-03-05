@@ -13,7 +13,7 @@
   <div style="margin-top: 20px; display: flex; justify-content: center;">
     <div style="display: flex; flex-direction: column;"> 
       <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width:500px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width:200px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width:227px;">
     </div>
   </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
