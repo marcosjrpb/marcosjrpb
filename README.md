@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white"width="80" height="28"/>  
 </div>
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" width="150" height="200"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" width="550" height="200"/> 
 </div>
   
 <div style="display: inline_block"><br>
