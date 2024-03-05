@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="28"/> 
     <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" width="100" height="28"/>  
     <img src="https://aleen42.github.io/badges/src/photoshop.svg" width="100" height="28"/>
-    <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" width="100" height="28"/>
+
   </div>
 
   <div align="center" style="display: inline_block; margin-top: 20px;"> 
