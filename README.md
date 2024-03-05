@@ -25,13 +25,7 @@
     <img src="https://aleen42.github.io/badges/src/photoshop.svg" width="100" height="28"/>
 
   </div>
-
-  <div align="center" style="display: inline_block; margin-top: 20px;"> 
-    <img align="center" alt="Matrix" height="30" width="40" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white">  
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  </div>
-
+ 
   <div align="center" style="margin-top: 20px;">
     <h2> Tecnologias Utilizadas </h2>
     <p> Este projeto utiliza uma variedade de tecnologias, incluindo:</p>
