@@ -12,8 +12,8 @@
 <div align="center">
   <div style="margin-top: 20px; display: flex; justify-content: center;">
     <div style="display: flex; flex-direction: column;">       
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width:327px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width:630px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width:300px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width:650px;">
   
     </div>
   </div>
