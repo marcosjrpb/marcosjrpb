@@ -1,21 +1,21 @@
 # Olá! Sou Marcos Junior 👋
 
-🔭 Atualmente, estou trabalhando com HTML, CSS e Flutter.
-🌱 Estou sempre aprendendo mais sobre Flutter.
-👯 Estou aberto para colaborações em projetos interessantes.
-🤔 Estou constantemente buscando aperfeiçoar minhas habilidades.
-💬 Pergunte-me sobre desenvolvimento de sistemas.
-📫 Meu e-mail: marcosjrpb@hotmail.com.
-😄 Pronomes: ele/dele.
-⚡ Curiosidade: Gosto de teatro, leitura e academia.
-🚀 Além disso, estou explorando novas tecnologias relacionadas ao desenvolvimento web e móvel.
-💡 Tenho interesse em projetos que envolvam acessibilidade e usabilidade.
-📚 Estou sempre em busca de novos conhecimentos, tanto na área técnica quanto em campos relacionados, programação.
-🔍 Tenho habilidades em análise de requisitos e arquitetura de software, além de implementação.
-💻 Estou familiarizado com metodologias ágeis de desenvolvimento, como Flutter e Spring.
-🎨 Tenho paixão por criar interfaces intuitivas e atraentes para os usuários.
-📊 Também tenho interesse em análise de dados e visualização, explorando ferramentas como Wordpress e Angular.
-🎓 Sou graduado em Desenvolvimento Web, o que me proporcionou uma base sólida para explorar diferentes áreas da tecnologia.
+-🔭 Atualmente, estou trabalhando com HTML, CSS e Flutter.
+-🌱 Estou sempre aprendendo mais sobre Flutter.
+-👯 Estou aberto para colaborações em projetos interessantes.
+-🤔 Estou constantemente buscando aperfeiçoar minhas habilidades.
+-💬 Pergunte-me sobre desenvolvimento de sistemas.
+-📫 Meu e-mail: marcosjrpb@hotmail.com.
+-😄 Pronomes: ele/dele.
+-⚡ Curiosidade: Gosto de teatro, leitura e academia.
+-🚀 Além disso, estou explorando novas tecnologias relacionadas ao desenvolvimento web e móvel.
+-💡 Tenho interesse em projetos que envolvam acessibilidade e usabilidade.
+-📚 Estou sempre em busca de novos conhecimentos, tanto na área técnica quanto em campos relacionados, programação.
+-🔍 Tenho habilidades em análise de requisitos e arquitetura de software, além de implementação.
+-💻 Estou familiarizado com metodologias ágeis de desenvolvimento, como Flutter e Spring.
+-🎨 Tenho paixão por criar interfaces intuitivas e atraentes para os usuários.
+-📊 Também tenho interesse em análise de dados e visualização, explorando ferramentas como Wordpress e Angular.
+-🎓 Sou graduado em Desenvolvimento Web, o que me proporcionou uma base sólida para explorar diferentes áreas da tecnologia.
 
 
 <div align="center">
