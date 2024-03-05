@@ -20,11 +20,16 @@
   <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" width="100" height="28"/>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://starchart.cc/marcosjrpb/listagem_flutter.svg" style="width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width: 300px;">
+<div align="center" style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin-right: 20px;">
+    <img src="https://starchart.cc/marcosjrpb/listagem_flutter.svg" style="width: 300px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width: 300px;">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width: 300px;">
+  </div>
 </div>
+
 
 <div align="center" style="display: inline_block; margin-top: 20px;"> 
   <img align="center" alt="Matrix" height="30" width="40" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white">  
