@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"width="80" height="28"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"width="80" height="28"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dark"width="80" height="28"/>
-  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" width="80" height="28"/>>
+  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" width="80" height="28"/>
   <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white"width="80" height="28"/>
  
   
