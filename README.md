@@ -36,7 +36,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green">
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="100" height="28"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="100" height="28"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100" height="28"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="100" height="28"/>
