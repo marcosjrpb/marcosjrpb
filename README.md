@@ -32,8 +32,8 @@
 <div align="center">
   <div style="margin-top: 20px; display: flex; justify-content: center;">
     <div style="display: flex; flex-direction: column;">       
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green" style="width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green" style="width:620px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green">
+      <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green">
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="100" height="28"/>
