@@ -1,6 +1,6 @@
 # Olá! Sou Marcos Junior 👋
 
--🔭 Atualmente, estou trabalhando com HTML, CSS e Flutter.
+-🔭 Atualmente, estou trabalhando com HTML, CSS e php.
 
 -👯 Estou aberto para colaborações em projetos interessantes.
 
