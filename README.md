@@ -1,9 +1,9 @@
 # 👨‍💻 Marcos Junior
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU-LINKEDIN)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosjrpb@hotmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/marcosjrpb)
-
+</div>
 ---
 
 ## 🚀 Sobre mim  
@@ -14,13 +14,13 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-
+<div align="center">
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+</div>
 ---
 
 ## 📊 Estatísticas e Gráficos  
@@ -41,15 +41,3 @@
 ## 💡 Visão Inspiradora
 > **“Cada linha de código é uma oportunidade de transformar ideias em realidade.”**
 
----
-
-## 🏆 Próximos passos (opcional)
-
-- Acrescentar seleção de **projetos em destaque** com mini-cards e links diretos.  
-- Incluir **GIFs ou imagens em destaque** de seus principais projetos.  
-- Adicionar uma **linha do tempo de trajetória profissional**, com visual limpo e minimalista.
-
----
-
-✨ Copie este conteúdo completo e cole no seu arquivo `README.md`.  
-Os gráficos e badges aparecerão automaticamente no seu perfil GitHub.
