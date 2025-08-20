@@ -105,23 +105,37 @@
 
 ## 📊 Estatísticas e Gráficos  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&show_icons=true&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&layout=donut&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  
-  <img height="180em" src="https://streak-stats.demolab.com?user=marcosjrpb&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosjrpb&repo=2FAVerificacao&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- Primeira linha -->
+  <div style="display: flex; gap: 20px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&show_icons=true&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&layout=donut&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
+
+  <!-- Segunda linha -->
+  <div style="display: flex; gap: 20px;">
+    <img height="180em" src="https://streak-stats.demolab.com?user=marcosjrpb&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosjrpb&repo=2FAVerificacao&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
+
 </div>
-
-
 
 
 ### 🌍 Contribuições – Heatmap 3D
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=marcosjrpb&theme=github-dark&column=7" alt="Contribuições 3D"/>
 </div>
+
+### 💎 Apoie com XRP
+<div align="center">
+Carteira XRP: <code>rUWhPUu3vrWCzKHgN5YDnKmcMeCv5EzCtW</code>
+</div>
+
+<div align="center">
+✨ "O sucesso é construído um passo de cada vez – continue avançando!" ✨
+</div>
+
 
 ---
 
