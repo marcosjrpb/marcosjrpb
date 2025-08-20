@@ -26,10 +26,10 @@
 ## 🚀 Sobre mim  
 
 <div align="center">
-💻 **Desenvolvedor Web** especializado em **HTML, CSS e PHP**  
-🔧 Foco em **acessibilidade, usabilidade e boas práticas de código**  
-🌱 Sempre aprendendo novas tecnologias e frameworks  
-🎭 **Curiosidades:** teatro, leitura e academia
+<p>💻 **Desenvolvedor Web** especializado em **HTML, CSS e PHP** </p>
+<p>🔧 Foco em **acessibilidade, usabilidade e boas práticas de código** </p>  
+<p>🌱 Sempre aprendendo novas tecnologias e frameworks</p> 
+<p>🎭 **Curiosidades:** teatro, leitura e academia</p>
 </div>
 
 ---
