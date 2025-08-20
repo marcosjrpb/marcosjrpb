@@ -121,12 +121,6 @@
 
 </div>
 
-
-### 🌍 Contribuições – Heatmap 3D
-<div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=marcosjrpb&theme=github-dark&column=7" alt="Contribuições 3D"/>
-</div>
-
 ### 💎 Apoie com XRP
 <div align="center">
 Carteira XRP: <code>rUWhPUu3vrWCzKHgN5YDnKmcMeCv5EzCtW</code>
@@ -135,7 +129,6 @@ Carteira XRP: <code>rUWhPUu3vrWCzKHgN5YDnKmcMeCv5EzCtW</code>
 <div align="center">
 ✨ "O sucesso é construído um passo de cada vez – continue avançando!" ✨
 </div>
-
 
 ---
 
