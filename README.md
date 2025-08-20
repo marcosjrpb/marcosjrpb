@@ -105,21 +105,21 @@
 
 ## 📊 Estatísticas e Gráficos  
 
-<table align="center">
+<table align="center" cellspacing="15">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&show_icons=true&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&layout=donut&theme=tokyonight&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&layout=donut&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
   </tr>
   <tr>
     <td>
-      <img height="180em" src="https://streak-stats.demolab.com?user=marcosjrpb&theme=tokyonight&hide_border=true" />
+      <img height="180em" src="https://streak-stats.demolab.com?user=marcosjrpb&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=marcosjrpb&theme=tokyonight" />
+      <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=marcosjrpb&theme=tokyonight" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
   </tr>
 </table>
