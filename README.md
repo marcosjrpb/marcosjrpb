@@ -1,6 +1,6 @@
 # 👨‍💻 Marcos Junior
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/SEU-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
@@ -25,7 +25,7 @@
 
 ## 🚀 Sobre mim  
 
-<div align="center">
+<div align="left">
 <p>💻 **Desenvolvedor Web** especializado em **HTML, CSS e PHP** </p>
 <p>🔧 Foco em **acessibilidade, usabilidade e boas práticas de código** </p>  
 <p>🌱 Sempre aprendendo novas tecnologias e frameworks</p> 
