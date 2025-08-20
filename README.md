@@ -1,64 +1,42 @@
-👋 Olá, eu sou Marcos Junior
+# 👨‍💻 Marcos Junior  
 
-💻 Desenvolvedor em constante evolução com foco em HTML, CSS e PHP, sempre em busca de 
-novos aprendizados e boas práticas no desenvolvimento web e mobile.
--------------------------------------------------------------------------------------------
-🚀 Sobre mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU-LINKEDIN)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosjrpb@hotmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)  
 
-🔭 Atualmente trabalhando com desenvolvimento web (HTML, CSS, PHP).
+---
 
-👯 Aberto a colaborações em projetos inovadores e desafiadores.
+## 🚀 Sobre mim  
+💻 Desenvolvedor focado em **HTML, CSS e PHP**, apaixonado por **tecnologia, acessibilidade e boas práticas de código**.  
+🌱 Sempre explorando **novas linguagens e frameworks**.  
+🎭 Fora da programação: **teatro, leitura e academia**.  
 
-💡 Interesse especial em acessibilidade, usabilidade e experiência do usuário.
+---
 
-📚 Apaixonado por aprender novas tecnologias e expandir conhecimentos técnicos.
+## 🛠️ Tecnologias e Ferramentas  
 
-🎭 Além da programação, gosto de teatro, leitura e academia.
--------------------------------------------------------------------------------------------
-📫 Contato
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-✉️ E-mail: marcosjrpb@hotmail.com
+---
 
--💻 Estou familiarizado com metodologias ágeis de desenvolvimento, como Flutter e Spring.
+## 📊 Estatísticas  
 
--🎨 Tenho paixão por criar interfaces intuitivas e atraentes para os usuários.
+### 🔥 Atividade
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true)  
 
--📊 Também tenho interesse em análise de dados e visualização, explorando ferramentas como Wordpress e Angular.
+### 📈 Estatísticas Gerais
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)  
 
--🎓 Sou graduado em Desenvolvimento Web, o que me proporcionou uma base sólida para explorar diferentes áreas da tecnologia.
+### 🖤 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=donut&theme=tokyonight&hide_border=true)  
 
+---
 
-<div align="center">
-  <div style="margin-top: 20px; display: flex; justify-content: center;">
-    <div style="display: flex; flex-direction: column;">       
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&theme=blue-green">
-      <img src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&theme=blue-green">
-    </div>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" />  
-    <img src="https://aleen42.github.io/badges/src/photoshop.svg" />
+## 💡 Visão  
+> “Cada linha de código é uma oportunidade de transformar ideias em realidade.”  
 
-  </div>
- 
-  <div align="center" style="margin-top: 20px;">
-    <h2> Tecnologias Utilizadas </h2>
-    <p> Este projeto utiliza uma variedade de tecnologias, incluindo:</p>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>Flutter para construção da interface de usuário</li>
-      <li>Android para plataforma móvel</li>
-      <li>Java para desenvolvimento backend</li>
-      <li>PHP para scripting no servidor</li>
-      <li>MySQL para gerenciamento de banco de dados</li>
-      <li>IOTA para tecnologia de ledger distribuído</li>
-      <li>Adobe Photoshop e Dreamweaver para ferramentas de design e desenvolvimento</li>
-    </ul>
-  </div>
-</div>
-
-</div>
-
+---
