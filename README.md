@@ -1,24 +1,23 @@
-# Olá! Sou Marcos Junior 👋
+👋 Olá, eu sou Marcos Junior
 
--🔭 Atualmente, estou trabalhando com HTML, CSS e php.
+💻 Desenvolvedor em constante evolução com foco em HTML, CSS e PHP, sempre em busca de 
+novos aprendizados e boas práticas no desenvolvimento web e mobile.
+-------------------------------------------------------------------------------------------
+🚀 Sobre mim
 
--👯 Estou aberto para colaborações em projetos interessantes.
+🔭 Atualmente trabalhando com desenvolvimento web (HTML, CSS, PHP).
 
--🤔 Estou constantemente buscando aperfeiçoar minhas habilidades.
+👯 Aberto a colaborações em projetos inovadores e desafiadores.
 
--💬 Pergunte-me sobre desenvolvimento de sistemas.
+💡 Interesse especial em acessibilidade, usabilidade e experiência do usuário.
 
--📫 Meu e-mail: marcosjrpb@hotmail.com.
+📚 Apaixonado por aprender novas tecnologias e expandir conhecimentos técnicos.
 
--😄 Pronomes: ele/dele.
+🎭 Além da programação, gosto de teatro, leitura e academia.
+-------------------------------------------------------------------------------------------
+📫 Contato
 
--⚡ Curiosidade: Gosto de teatro, leitura e academia.
-
--🚀 Além disso, estou explorando novas tecnologias relacionadas ao desenvolvimento web e móvel.
-
--💡 Tenho interesse em projetos que envolvam acessibilidade e usabilidade.
-
--📚 Estou sempre em busca de novos conhecimentos, tanto na área técnica quanto em campos relacionados, programação.
+✉️ E-mail: marcosjrpb@hotmail.com
 
 -💻 Estou familiarizado com metodologias ágeis de desenvolvimento, como Flutter e Spring.
 
