@@ -1,6 +1,6 @@
 # 👨‍💻 Marcos Junior
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/SEU-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
