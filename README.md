@@ -26,9 +26,10 @@
 ## 🚀 Sobre mim  
 
 <div align="center">
-💻 Desenvolvedor especializado em **HTML, CSS e PHP**, com foco em **acessibilidade, usabilidade e boas práticas de código**.  
-🌱 Em constante evolução – aprendendo novas tecnologias e frameworks.  
-🎭 Curiosidades: teatro, leitura e academia.
+💻 **Desenvolvedor Web** especializado em **HTML, CSS e PHP**  
+🔧 Foco em **acessibilidade, usabilidade e boas práticas de código**  
+🌱 Sempre aprendendo novas tecnologias e frameworks  
+🎭 **Curiosidades:** teatro, leitura e academia
 </div>
 
 ---
