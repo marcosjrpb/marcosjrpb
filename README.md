@@ -119,7 +119,7 @@
       <img height="180em" src="https://streak-stats.demolab.com?user=marcosjrpb&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
    <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosjrpb&repo=SEU_REPO&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosjrpb&repo=site_claro&theme=tokyonight&hide_border=true" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </td>
   </tr>
 </table>
