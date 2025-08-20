@@ -32,7 +32,7 @@
 </div>
 
 ---
-
+## 🛠️ Tecnologias e Ferramentas
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -85,7 +85,20 @@
   <a href="#">
     <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Wagtail-339933?style=for-the-badge&logo=python&logoColor=white" alt="Wagtail">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Adobe_Flash-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Flash">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/XRP-2D8CFF?style=for-the-badge&logo=ripple&logoColor=white" alt="XRP">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  </a>
 </div>
+
 
 ---
 
