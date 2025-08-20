@@ -106,10 +106,21 @@
 ## 📊 Estatísticas e Gráficos  
 
 <div align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=marcosjrpb&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&layout=donut&theme=tokyonight&hide_border=true"/>
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosjrpb&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Top Languages Donut -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjrpb&layout=donut&theme=tokyonight&hide_border=true" />
+
+<!-- Streak Linear -->
+<img height="180em" src="https://streak-stats.demolab.com?user=marcosjrpb&theme=tokyonight&hide_border=true" />
+
+<!-- Contribution Heatmap -->
+<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=marcosjrpb&theme=tokyonight" />
+
 </div>
+
 
 ### 🌍 Contribuições – Heatmap 3D
 <div align="center">
